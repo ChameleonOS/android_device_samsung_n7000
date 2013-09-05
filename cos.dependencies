@@ -29,9 +29,10 @@
         "target_path": "hardware/samsung",
         "branch": "cm-10.1"
     },
-    { "project": "Gerrett84",
-        "repository": "android_vendor_samsung_n7000",
+    {
+        "project": "TheMuppets",
+        "repository": "android_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "jellybean"
+        "branch": "cm-10.2"
     }
 ]
